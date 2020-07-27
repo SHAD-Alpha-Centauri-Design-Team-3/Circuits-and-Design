@@ -2,4 +2,4 @@
 
 This repository contains the circuit board designs for the SHAD online Blue origin design challenge
 
-![AccelerometerPCB](accelerometerPCB.PNG)
+![AccelerometerPCB](AccelerometerPCB.PNG)
