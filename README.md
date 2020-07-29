@@ -15,7 +15,7 @@ Accelerometer Pinout (On Breadboard)
 ---
 <img src="Images/accelerometerPCB.PNG" width=500>
 
-Box Layout (top down)
+Box Layout (top down, side(back), side(right))
 ---
 <img src="Images/shad2020designV2.png" width=500>
 
