@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://www.shad.ca/wp-content/uploads/2019/05/SHAD-logo@2x.png" width=300>
+<img src="Images/ACDT3_LOGO.png" width=260><br>
+<img src="https://www.shad.ca/wp-content/uploads/2019/05/SHAD-logo@2x.png" width=180><br>
 <h1>Design Team 3: Circuits</h1>
 </div>
 
