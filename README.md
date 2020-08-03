@@ -20,4 +20,8 @@ Box Layout (top down, side(back), side(right))
 ---
 <img src="Images/shad2020design.png" width=500>
 
+3D project design
+---
+<img src="Images/3dshadcad.png" width=500>
+
 
