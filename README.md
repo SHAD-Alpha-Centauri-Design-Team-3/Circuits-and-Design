@@ -22,6 +22,6 @@ Box Layout (top down, side(back), side(right))
 
 3D project design
 ---
-<img src="Images/3dshadcad.png" width=500>
+<img src="Images/3dshadcad.PNG" width=500>
 
 
