@@ -26,7 +26,7 @@ Box Layout (top down, side(back), side(right))
 
 Blender design image renders
 ---
-<img src="Images/Blender-Images/SHAD2020blenderProject.PNG" width=500>
-<img src="Images/Blender-Images/SHAD2020blenderProject2.PNG" width=500>
-<img src="Images/Blender-Images/SHAD2020blenderProject3.PNG" width=500>
+<img src="Images/Blender-Images/SHAD2020blenderProject.png" width=500>
+<img src="Images/Blender-Images/SHAD2020blenderProject2.png" width=500>
+<img src="Images/Blender-Images/SHAD2020blenderProject3.png" width=500>
 
